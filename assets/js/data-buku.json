@@ -1,0 +1,14 @@
+{
+    "buku": [
+        {
+            "fotobuku": "https://bukuprogresif.com/wp-content/uploads/2019/03/seni-untuk-bersikap-bodo-amat.jpg",
+            "namabuku":"Seni Untuk Bersikap Bodo Amat",
+            "deskripsi":"Deskripsi bukunya ini pokoknya udah"
+        },
+        {
+            "fotobuku": "https://cf.shopee.co.id/file/20c6772f4d47f050ea73bd3052e5b53a",
+            "namabuku":"Berani Untuk Tidak Disukai",
+            "deskripsi":"Deskripsi bukunya ini pokoknya udah"
+        }
+    ]
+}
